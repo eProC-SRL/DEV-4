@@ -1,0 +1,14 @@
+e199001v004 
+
+en la imagen:
+	- TREND6: 
+		* eje de tiempo, Se modifico el rango(intervalo en segundos) a 21600 
+		* eje de valores izquierdo, se borro la variable fin de eje (Max_val) y fin de eje se modifico a 250
+	- TREND12: 
+		* eje de tiempo, Se modifico el rango(intervalo en segundos) a 43200 
+		* eje de valores izquierdo, se borro la variable fin de eje (Max_val) y fin de eje se modifico a 250
+	- TREND24: 
+		* eje de tiempo, Se modifico el rango(intervalo en segundos) a 86400 
+		* eje de valores izquierdo, se borro la variable fin de eje (Max_val) y fin de eje se modifico a 250
+
+en el panel configuar fecha y hora.
